@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E12AE2-00C6-4933-8DE9-687750E09C40}|lab_19(1)\\lab_19(1).vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_19(1)\\lab_19(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0E12AE2-00C6-4933-8DE9-687750E09C40}|lab_19(1)\\lab_19(1).vcxproj|solutionrelative:lab_19(1)\\lab_19(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FE2A80-28BE-4BDB-969C-721C53F377F5}|lab_18(1)\\lab_18(1).vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18(1)\\lab_18(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97FE2A80-28BE-4BDB-969C-721C53F377F5}|lab_18(1)\\lab_18(1).vcxproj|solutionrelative:lab_18(1)\\lab_18(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Telegram Desktop\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB53E3F-475C-4914-B5C8-C226CC63EDEC}|lab_18\\lab_18.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18\\lab_18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AB53E3F-475C-4914-B5C8-C226CC63EDEC}|lab_18\\lab_18.vcxproj|solutionrelative:lab_18\\lab_18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Telegram Desktop\\lab18_osnova.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_18(1).cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18(1)\\lab_18(1).cpp",
+              "RelativeDocumentMoniker": "lab_18(1)\\lab_18(1).cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18(1)\\lab_18(1).cpp",
+              "RelativeToolTip": "lab_18(1)\\lab_18(1).cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T00:59:26.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_19(1).cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_19(1)\\lab_19(1).cpp",
+              "RelativeDocumentMoniker": "lab_19(1)\\lab_19(1).cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_19(1)\\lab_19(1).cpp*",
+              "RelativeToolTip": "lab_19(1)\\lab_19(1).cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T01:50:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\dop1.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\dop1.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T01:25:39.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab18_osnova.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\lab18_osnova.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\lab18_osnova.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T23:58:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab_18.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18\\lab_18.cpp",
+              "RelativeDocumentMoniker": "lab_18\\lab_18.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 18 \u0438 19\\lab_18\\lab_18\\lab_18\\lab_18.cpp",
+              "RelativeToolTip": "lab_18\\lab_18.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T20:16:09.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195041C1-EEDE-4CEC-91BB-DEA26B3A4695}|dop3_2\\dop3_2.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3_2\\dop3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195041C1-EEDE-4CEC-91BB-DEA26B3A4695}|dop3_2\\dop3_2.vcxproj|solutionrelative:dop3_2\\dop3_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E434BDC-A311-4FBD-8C63-88A07D166759}|dop3\\dop3.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E434BDC-A311-4FBD-8C63-88A07D166759}|dop3\\dop3.vcxproj|solutionrelative:dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A9D367-6D07-4046-BDE6-2369A1319EFA}|dop_2_2\\dop_2_2.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2_2\\dop_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7A9D367-6D07-4046-BDE6-2369A1319EFA}|dop_2_2\\dop_2_2.vcxproj|solutionrelative:dop_2_2\\dop_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63834FFB-5022-4A9A-9968-1E4F0608DD7D}|dop_2\\dop_2.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2\\dop_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63834FFB-5022-4A9A-9968-1E4F0608DD7D}|dop_2\\dop_2.vcxproj|solutionrelative:dop_2\\dop_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172A1789-C402-43A0-A6DA-FE846F4A1E59}|dop2\\dop2.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop2\\dop1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172A1789-C402-43A0-A6DA-FE846F4A1E59}|dop2\\dop2.vcxproj|solutionrelative:dop2\\dop1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46BC097-91C4-4B30-ACB4-EB9F05E4D75C}|dop1\\dop1.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46BC097-91C4-4B30-ACB4-EB9F05E4D75C}|dop1\\dop1.vcxproj|solutionrelative:dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAED79E-A3C7-474E-98EF-329F7CC7C5CF}|lab11_2\\lab11_2.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11_2\\lab11_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACAED79E-A3C7-474E-98EF-329F7CC7C5CF}|lab11_2\\lab11_2.vcxproj|solutionrelative:lab11_2\\lab11_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541EDCAC-0D04-4D94-BFFF-D02068E7A063}|lab11\\lab11.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11\\lab11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{541EDCAC-0D04-4D94-BFFF-D02068E7A063}|lab11\\lab11.vcxproj|solutionrelative:lab11\\lab11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dop3_2.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3_2\\dop3_2.cpp",
+              "RelativeDocumentMoniker": "dop3_2\\dop3_2.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3_2\\dop3_2.cpp",
+              "RelativeToolTip": "dop3_2\\dop3_2.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T02:36:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dop3.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3\\dop3.cpp",
+              "RelativeDocumentMoniker": "dop3\\dop3.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop3\\dop3.cpp",
+              "RelativeToolTip": "dop3\\dop3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T02:24:40.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dop_2_2.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2_2\\dop_2_2.cpp",
+              "RelativeDocumentMoniker": "dop_2_2\\dop_2_2.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2_2\\dop_2_2.cpp",
+              "RelativeToolTip": "dop_2_2\\dop_2_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T10:51:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dop_2.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2\\dop_2.cpp",
+              "RelativeDocumentMoniker": "dop_2\\dop_2.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop_2\\dop_2.cpp",
+              "RelativeToolTip": "dop_2\\dop_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T10:41:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dop1_2.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop2\\dop1_2.cpp",
+              "RelativeDocumentMoniker": "dop2\\dop1_2.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop2\\dop1_2.cpp",
+              "RelativeToolTip": "dop2\\dop1_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T10:25:50.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop1\\dop1.cpp",
+              "RelativeDocumentMoniker": "dop1\\dop1.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\dop1\\dop1.cpp",
+              "RelativeToolTip": "dop1\\dop1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T10:15:07.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab11_2.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11_2\\lab11_2.cpp",
+              "RelativeDocumentMoniker": "lab11_2\\lab11_2.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11_2\\lab11_2.cpp",
+              "RelativeToolTip": "lab11_2\\lab11_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T02:18:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab11.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11\\lab11.cpp",
+              "RelativeDocumentMoniker": "lab11\\lab11.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 11\\lab11\\lab11\\lab11.cpp",
+              "RelativeToolTip": "lab11\\lab11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T01:43:17.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

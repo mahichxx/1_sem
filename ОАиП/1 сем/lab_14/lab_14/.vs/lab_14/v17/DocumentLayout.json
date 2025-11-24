@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B96EBB-0EF8-4210-8A45-C99F2CF14AFF}|lab_14\\lab_14.vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_14\\lab_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2B96EBB-0EF8-4210-8A45-C99F2CF14AFF}|lab_14\\lab_14.vcxproj|solutionrelative:lab_14\\lab_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184C55B6-0042-4788-82C9-240C3B7AA44D}|lab_7(2)\\lab_7(2).vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(2)\\lab_7(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{184C55B6-0042-4788-82C9-240C3B7AA44D}|lab_7(2)\\lab_7(2).vcxproj|solutionrelative:lab_7(2)\\lab_7(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5526898-7C3B-4A6B-B509-2CD574D1B64C}|lab_7(1)\\lab_7(1).vcxproj|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(1)\\lab_7(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5526898-7C3B-4A6B-B509-2CD574D1B64C}|lab_7(1)\\lab_7(1).vcxproj|solutionrelative:lab_7(1)\\lab_7(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_7(2).cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(2)\\lab_7(2).cpp",
+              "RelativeDocumentMoniker": "lab_7(2)\\lab_7(2).cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(2)\\lab_7(2).cpp",
+              "RelativeToolTip": "lab_7(2)\\lab_7(2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T10:35:41.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab_7(1).cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(1)\\lab_7(1).cpp",
+              "RelativeDocumentMoniker": "lab_7(1)\\lab_7(1).cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_7(1)\\lab_7(1).cpp",
+              "RelativeToolTip": "lab_7(1)\\lab_7(1).cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T10:27:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_14.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_14\\lab_14.cpp",
+              "RelativeDocumentMoniker": "lab_14\\lab_14.cpp",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0421\u041D\u041E\u0412\u042B \u0410\u041B\u0413\u041E\u0420\u0418\u0422\u041C\u0418\u0417\u0410\u0426\u0418\u0418 \u0418 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F\\\u041B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 14\\lab_14\\lab_14\\lab_14.cpp",
+              "RelativeToolTip": "lab_14\\lab_14.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T10:03:56.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
