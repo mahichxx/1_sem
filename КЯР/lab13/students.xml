@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+    <student>
+        <name>Максим Тростянка</name>
+        <subject>Математика</subject>
+        <grade>10</grade>
+    </student>
+    <student>
+        <name>Влада Жук</name>
+        <subject>История</subject>
+        <grade>7</grade>
+    </student>
+    <student>
+        <name>Ксения Дакука</name>
+        <subject>Физика</subject>
+        <grade>7</grade>
+    </student>
+    <student>
+        <name>Андрей Широков</name>
+        <subject>Химия</subject>
+        <grade>2</grade>
+    </student>
+</students>

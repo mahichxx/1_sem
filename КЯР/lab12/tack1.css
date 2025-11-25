@@ -1,0 +1,65 @@
+books{
+    background-color: #f4c88d;
+}
+
+hat{
+    background-color: #cdce9e;
+    margin:20px 600px; 
+    padding: 10px 0;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    color: #214459;
+    border: thick double #214459;
+}
+item{
+    display: inline-grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+    padding: 10px 10px;
+    gap: 10px;
+    margin: 22px 0;
+}
+name , author ,book {
+    text-align: center;
+    display: grid;
+    padding: 7px;
+    font-size: 17px;
+    color: #214459;
+}
+
+price{
+    text-align: end;
+    display: block;
+    padding: 7px;
+    font-size: 18px;
+    color: #214459;
+}
+name, author , price{
+    font-weight: bolder;
+}
+
+block{
+    border: thick double #214459;
+    background-color: #cdce9e;
+}
+/*
+name{
+    display: block;
+    background-color: cornsilk;
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+author{
+    display: block;
+    width: 600px;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+    */

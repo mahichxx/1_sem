@@ -1,0 +1,74 @@
+.main {
+    display: inline-block;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.main:hover .task {
+    color: white;
+    transition: color 300ms;
+}
+
+.main:hover {
+    background-color: black;
+    transition: background-color 300ms;
+}
+
+.task {
+    text-decoration: none;
+    color: black;
+    font-size: 1.17em;
+}
+
+h3 {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+}
+
+.main span {
+    display: none;
+}
+
+#menubttn {
+    display: none;
+}
+
+@media (max-width: 480px) {
+    .main span {
+        display: inline;
+        float: right;
+    }
+
+    h3 {
+        display: inline;
+    }
+
+    .main {
+        display: block;
+        margin: 10px 0;
+    }
+
+    #menubttn {
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 55px;
+        margin: 0;
+        padding: 0;
+        left: 0px;
+        top: 15px;
+        opacity: 0;
+    }
+
+    #menubttn:checked~li {
+        display: none;
+    }
+}

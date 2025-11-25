@@ -1,0 +1,29 @@
+$background: #a82c60;
+$highlight-color: rgb(0, 250, 154);
+$yellow: yellow;
+$text-style: underline;
+$text-center: center;
+
+*{
+    background-color: $background;
+}
+body {
+  h3 {
+    color: $yellow;
+    text-align: $text-center;
+  }
+
+  div {
+    > h2 {
+      color: $highlight-color;
+    }
+    span#t {
+      text-decoration: $text-style;
+    }
+  }
+}
+
+svg {
+  width: 1000px;
+  height: 250px;
+}

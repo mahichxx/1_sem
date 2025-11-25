@@ -1,0 +1,8 @@
+h1{
+    margin: 10px 30px;
+}
+h1+p{
+    background-color:yellow}
+
+h2~p{
+    color:blue}

@@ -1,0 +1,33 @@
+.main{
+    display: grid;
+    grid-template-columns: 6% 47% 47%;
+    border: none;
+    height: 750px;
+}
+
+.main div{
+    margin: 5px;
+    background-color: rgb(255, 95, 55);
+    border-style: solid;
+}
+
+.text1{
+    font-size: 70px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+}
+
+.text2 {
+    font-size: 44px;
+    text-align: center;
+    grid-column: 2 / 2;
+    grid-row: 1 / 3;
+}
+.text3 {
+    font-size: 44px;
+    text-align: center;
+    grid-column: 3 / 4;
+    grid-row: 1 / 3;
+}

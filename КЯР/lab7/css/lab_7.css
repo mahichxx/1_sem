@@ -1,0 +1,378 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 135px;
+    margin: 10px 30px 10px 30px;
+    
+}
+
+div {
+    display: inline;
+}
+
+
+/* 1 */
+.tea1:hover {
+    transform: scale(0.5);
+    transition: transform 0.3s ease;
+}
+
+.tea2:hover {
+    transform: rotate(45deg);
+    transition: transform 0.3s ease;
+}
+
+.tea3:hover {
+    transform: translateX(50px);
+    transition: transform 0.3s ease;
+}
+
+.tea4:hover {
+    transform: skew(-20deg);
+    transition: transform 0.3s ease;
+}
+
+/* 2 */
+
+button{
+    width: 150px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.but1:hover{
+    background-color: black;
+    color: white;
+}
+
+.but2:hover{
+    background-color: white;
+    border: 4px solid red;
+    outline: 4px solid yellow;
+}
+
+.but3:hover{
+    border-top: 5px green solid;
+    border-right: none;
+    border-bottom: 5px green solid;
+    border-left: none;
+    background-color: white;
+}
+
+.but4:hover{
+    border-top: none;
+    border-right: 5px blue solid;
+    border-bottom: none;
+    border-left: 5px blue solid;
+    background-color: white;
+}
+
+.but5:hover{
+    background-image: radial-gradient(closest-side, #FFFF00, #FF00FF , #8A2BE2, #00FFFF) ;
+    border: none;
+}
+
+/* 3 */
+
+.tea5{
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateX(45deg);
+	border: 4px,solid,black;
+}
+
+.tea6{
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateY(45deg);
+	border: 4px,solid,black;
+}
+
+.tea7{
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateX(45deg);
+	border: 4px,solid,black;
+}
+
+.tea8{
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateY(-45deg);
+	border: 4px,solid,black;
+}
+
+/* 4 */
+
+.tea9{
+    position: absolute;
+    animation: anime1 5s linear infinite;
+}
+
+.tea10{
+    position: absolute;
+    animation: anime2 5s linear infinite;
+}
+
+.tea11{
+    position: absolute;
+    animation: anime3 5s linear infinite;
+}
+
+.tea12{
+    position: absolute;
+    animation: anime4 5s linear infinite; 
+}
+
+.d1{
+   
+    margin-top: 50px;
+    display: inline-block;
+    
+}
+
+@keyframes anime1{
+    0% {
+        transform: perspective(800px)  rotateY(45deg);
+        margin-left: 120px;
+    }
+    50% {
+        transform: rotateY(0deg);
+        margin-left: 120px;
+    }
+    100% { transform: translate(120px); }
+}
+
+@keyframes anime2{
+    0% {
+        transform: perspective(800px) rotateY(45deg);
+        margin-left: 150px;
+    }
+    50% {
+        transform: rotateY(0deg);
+        margin-left: 150px;
+    }
+    100% {
+        transform: translate(430px);
+        filter: blur(10px);
+    }
+}
+
+@keyframes anime3{
+    0% {
+        transform: perspective(800px) rotateY(45deg);
+        margin-left: 180px;
+    }
+    50% {
+        transform: rotateY(0deg);
+        margin-left: 180px;
+    }
+    100% {
+        transform: translate(740px);
+        filter: grayscale(1);
+    }
+}
+
+@keyframes anime4{
+    0% {
+        transform: perspective(800px) rotateY(45deg);
+        margin-left: 210px;
+    }
+    50% {
+        transform: rotateY(0deg);
+        margin-left: 210px;
+    }
+    100% {
+        transform: translate(1050px);
+        filter: invert(1);
+    }
+}
+
+.animation{
+    
+    margin-bottom: 120px;
+    margin-top: -40px;
+    display: inline-block;
+}
+
+/* 5 */
+
+.slideshow {
+    height: 180px;
+    width: 260px;
+    position: absolute;
+    border: 3px solid rgb(0, 0, 0);
+    margin-top: 30px;
+    margin-bottom: 100px;
+    animation: change 5s linear infinite;
+    background-size: 100%;
+}
+ 
+
+@keyframes change{
+    
+    0%{background-image: url("../img/tea1.jpg");
+
+       }
+    20%{background-image: url("../img/tea2.jpg");
+
+       }
+    40%{background-image: url("../img/tea3.jpg");
+
+       }
+    60%{background-image: url("../img/tea4.jpg");
+
+       }
+    80%{background-image: url("../img/tea5.webp");
+       }
+    100%{background-image: url("../img/tea1.jpg");
+    }
+}
+
+.a{
+    margin-bottom: 250px;
+    display: block;
+}
+/* 6 */
+.tea13{
+    display: block;
+    width: 250px;
+    height: 170px;
+    animation: img13 1s linear infinite;
+    animation-direction: alternate;
+    position: relative;
+}
+
+@keyframes img13{
+    0%{
+        left: 0;
+    }
+    100%{
+       left:200px;
+    }
+}
+
+.tea14{
+    display: block;
+    width: 170px;
+    height: 170px;
+    animation: img14 2s linear infinite;
+    animation-direction: alternate;
+    position: relative;
+}
+
+@keyframes img14{
+    0%{
+        left: 0;
+    }
+    50%{
+        left:100px;
+        border-radius: 100px;
+    }
+    100%{
+       left:200px;
+    }
+}
+
+.tea15{
+    display: block;
+    width: 250px;
+    height: 170px;
+    animation: img15 2s linear infinite;
+    animation-direction: alternate;
+    position: relative;
+}
+
+@keyframes img15 {
+    0% {
+        transform: translateX(-100vw); 
+    }
+    100% {
+        transform: translateX(100vw); 
+    }
+}
+
+.tea16{
+    display: block;
+    width: 250px;
+    height: 170px;
+    margin-bottom: 100px;
+    animation: img16 1s linear infinite;
+    animation-direction: alternate;
+    position: relative;
+}
+
+@keyframes img16{
+    0%{
+        top: 0;
+    }
+    100%{
+        top:50px;
+    }
+}
+
+.tea17{
+    display: block;
+    width: 250px;
+    height: 170px;
+    animation: img17 4s linear infinite;
+    position: relative;
+
+}
+
+@keyframes img17{
+    0%{
+        left: 0;
+        top:0;
+    }
+    25%{
+        left:0px; 
+        top:50px;
+    }
+    50%{
+        left:50px;
+        top:50px
+    }
+    75%{
+       left:50px;
+       top:0px;
+    }
+    100%{
+       left:0px;
+       top:0px;
+    }
+}
+
+.lorem {
+    width: 270px;;
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 24px;
+    color: #000000; 
+    transition: color 5s linear;
+}
+
+
+.lorem:hover{
+    color: red;
+}
+
+h1{
+text-align: center;
+animation: fade 4s linear infinite; 
+}
+
+@keyframes fade {
+0% {
+    opacity: 0; 
+}
+50% {
+    opacity: 0.8; 
+}
+100% {
+    opacity: 0; 
+}
+}

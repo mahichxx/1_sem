@@ -1,0 +1,46 @@
+body {
+    background-color: #863348;
+}
+
+p{
+    font-size: 21px;
+    color: #F1F1BF;
+}
+span{
+    font-weight: bold;
+}
+a{
+    font-size: 19px;
+}
+aside {
+    width: 180px;
+    height: 250px;
+    padding: 10px 0px 0px 10px;
+    float: right;
+    border: 1px solid #F1F1BF;
+    border-radius: 10px;
+    background-color: #F1F1BF;
+}
+aside ul {
+    margin: 0;
+    padding: 35px;
+}
+.menuitem {
+    list-style: none;
+    padding: 10px;
+}
+.menulink {
+    text-decoration: none;
+}
+.menulink:link {
+    color: #ff0000;
+}
+.menulink:visited {
+    color: #8B0000;
+}
+.menulink:hover {
+    color: #008000;
+}
+.menulink:active {
+    color: rgb(184, 134, 11);
+}

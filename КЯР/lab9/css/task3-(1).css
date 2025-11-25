@@ -1,0 +1,65 @@
+#menu{
+    display: grid;
+    grid-template-columns: 1fr 6fr 2fr;
+    grid-template-areas: 
+    "a b b"
+    "a c d"
+    "a c d"
+    "a c d"
+    "a c d"
+    "a c d"
+    "e e e";
+    gap: 14px;
+
+}
+
+#silki{
+    grid-area: a;
+    background-color: #00a3c3;
+    
+}
+
+#silki ul{
+    list-style: none;
+    padding: 0;
+    margin-left: 15px;
+}
+
+#silki li{
+    margin: 100px 0px;
+    text-align: center;
+}
+
+#silki a{
+    text-decoration: none;
+    color: #000;
+}
+
+#hatter{
+    grid-area: b;
+    background-color: #5b9642;
+}
+
+#centr{
+    grid-area: c;
+    background-color: #ff7f50;
+}
+
+#aside{
+    grid-area: d;
+    background-color: #00a3c3;
+}
+
+#foot{
+    grid-area: e;
+    text-align: center;
+    background-color: #5b9642;
+}
+p{
+    font-size: 18px;
+    text-indent: 10px;
+    padding: 3px;
+}
+body{
+    background-color: #e1ead0;
+}

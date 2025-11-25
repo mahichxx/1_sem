@@ -1,0 +1,19 @@
+* {
+  background-color: #a82c60;
+}
+
+body h3 {
+  color: yellow;
+  text-align: center;
+}
+body div > h2 {
+  color: rgb(0, 250, 154);
+}
+body div span#t {
+  text-decoration: underline;
+}
+
+svg {
+  width: 1000px;
+  height: 250px;
+}/*# sourceMappingURL=6.css.map */

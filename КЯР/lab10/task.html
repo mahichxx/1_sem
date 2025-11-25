@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/task1.css">
+    <link rel="stylesheet" href="css/task2.css">
+    <link rel="stylesheet" href="css/task3.css">
+    <link rel="stylesheet" href="/styles/link.css">
+    <link rel="stylesheet" href="css/task3_2.css" media="(min-width:768px) and (max-width:1280px)">
+    <style>
+        @media (max-width: 480px) {
+        #nadpis {
+        color: red;
+    }
+    }
+    </style>
+    <title>Lab 10</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li class="main">
+                <h3 class="task">Меню</h3>
+                <span>&#8801;</span>
+            </li>
+            <input type="checkbox" id="menubttn">
+            <li class="main">
+                <a href="#task1" class="task">Задание 1</a>
+            </li>
+            <li class="main">
+                <a href="#nadpis" class="task">Задание 2</a>
+            </li>
+            <li class="main">
+                <a href="#third" class="task">Задание 3</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div id="task1">
+        <div id="head">
+            <h1>Страничка</h1>
+        </div>
+        <div id="bloc_1" class="bloc">
+            <video src="video/tea1.mp4" controls></video>
+            <video src="video/nature.mp4" controls></video>
+            <video src="video/tea2.mp4" controls></video>
+        </div>
+        <div id="bloc_2" class="bloc" id="nadpis">
+            <p>
+                Flexbox (Flexible Box Layout) — это современный метод верстки, предназначенный для упрощения компоновки элементов на веб-страницах. Основной принцип Flexbox заключается в том, чтобы сделать контейнеры и их дочерние элементы гибкими, позволяя им автоматически подстраиваться под размеры экрана или доступное пространство. Flexbox работает на основе двух ключевых компонентов: flex-контейнера и flex-элементов. Контейнер определяется с помощью свойства `display: flex`, после чего его дочерние элементы получают доступ к множеству мощных инструментов, таких как управление выравниванием, направлением, порядком и распределением пространства. Это делает Flexbox особенно удобным для создания адаптивных интерфейсов.
+                Одним из ключевых преимуществ Flexbox является возможность выравнивания элементов как по основной оси, так и по перекрестной. Это достигается с помощью таких свойств, как `justify-content`, `align-items` и `align-self`. Например, с помощью `justify-content` можно распределить элементы равномерно, прижать их к началу или концу контейнера или задать промежутки между ними. Flexbox также позволяет легко менять направление расположения элементов с помощью свойства `flex-direction`. Благодаря этим возможностям Flexbox стал незаменимым инструментом для современных веб-разработчиков, особенно при создании адаптивных дизайнов, где важно учитывать разные размеры экранов и устройств.
+            </p>
+        </div>
+        <div id="bloc_3" class="bloc">
+            <audio src="music/misuc_1.mp3" controls></audio>
+            <audio src="music/misuc_2.mp3" controls></audio>
+            <audio src="music/misuc_3.mp3" controls></audio>
+        </div>
+    </div>
+
+    <div id="third">
+        <h1 id="nadpis">Галерея</h1>
+        <img src="img/tea1.jpg" alt="" class="imgs">
+        <img src="img/tea2.jpg" alt="" class="imgs">
+        <img src="img/tea3.jpg" alt="" class="imgs">
+        <img src="img/tea4.jpg" alt="" class="imgs">
+        <img src="img/tea5.jpg" alt="" class="imgs">
+        <img src="img/tea6.jpg" alt="" class="imgs">
+        <img src="img/tea7.jpg" alt="" class="imgs">
+        <img src="img/tea8.jpg" alt="" class="imgs">
+    </div>
+</body>
+</html>

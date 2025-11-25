@@ -1,0 +1,49 @@
+div{
+    display: flex; 
+    justify-content: center;
+}
+
+.nav div ul {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+
+.nav>div>ul>li {
+    width:200px;
+    position: relative;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.nav li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+	color: black;
+}
+
+.nav li .second {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left:0;
+}
+nav li:hover .second{
+    display: block;
+}
+
+.second {
+    background-color: #ff9977;
+    border-left: dashed black;
+    border-top: dashed black;
+    border-right: dashed black;
+}
+
+.second>li{
+    border-bottom: 3px dashed black;
+}
+
+.second>li:hover{
+    background-color: #ff7f55;
+}

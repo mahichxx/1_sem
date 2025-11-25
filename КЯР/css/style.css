@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #AB7659;
+  color: #423F36;
+}
+
+header {
+  border: 1px solid #423F36;
+  margin: 7px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #DAB384;
+  background-size: 100% 100%;
+}
+header img {
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+header .menu {
+  margin-right: 5%;
+  margin-top: 10px;
+}
+header .menu ul {
+  display: flex;
+}
+header .menu ul .link {
+  border: 2px solid #423F36;
+  list-style: none;
+  width: 100%;
+  margin: 10px 20px;
+  text-align: center;
+  padding: 16px;
+  display: inline-block;
+}
+header .menu ul a {
+  text-decoration: none;
+  color: #423F36;
+  padding: 10px;
+}
+header .menu ul a:hover {
+  color: #AB7659;
+}
+
+main aside form p input {
+  background-color: #E2D3AB;
+  padding: 6px;
+  border: 1px solid #423F36;
+  border-radius: 4px;
+}
+
+main aside form button {
+  border: 1px solid #423F36;
+  background-color: #E2D3AB;
+  color: #423F36;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 0 10px 0 auto;
+}
+
+main {
+  border: 1px solid #423F36;
+  margin: 7px;
+  background-color: #DAB384;
+  display: flex;
+}
+main .section_1 {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+}
+main .section_1 .section-one h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-right: 130px;
+}
+main .section_1 .section-one p {
+  font-size: 32px;
+  text-align: center;
+}
+main .section_1 .section-one .p_first {
+  display: inline-block;
+  width: 200px;
+  padding: 15px;
+  margin-top: 0;
+}
+main .section_1 .section-one #mid_p {
+  margin: 0 100px 25px 100px;
+}
+main .section_1 .section_2 h2 {
+  font-size: 40px;
+  text-align: center;
+}
+main .section_1 .section_2 img {
+  width: 150px;
+  height: 150px;
+  margin: 30px 50px;
+}
+main aside {
+  display: flex;
+  flex-direction: column;
+  width: 22%;
+  height: 100%;
+}
+main aside form {
+  display: flex;
+  flex-direction: column;
+  width: 120%;
+  margin-top: 20px;
+}
+main aside form p {
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  height: 40px;
+}
+main aside form p label {
+  display: inline-block;
+  width: 150px;
+}
+main aside form button:hover {
+  background-color: #AB7659;
+}
+main aside .other-container h3 {
+  font-size: 40px;
+  width: 120%;
+  text-align: center;
+}
+main aside .other-container .other-items .art_1 {
+  margin-bottom: 10px;
+}
+main aside .other-container .other-items article {
+  display: flex;
+  align-items: flex-start;
+  width: 125%;
+}
+main aside .other-container .other-items article img {
+  width: 100px;
+  height: 100px;
+}
+main aside .other-container .other-items article p {
+  font-size: 32px;
+  margin: 2px 0 5px 10px;
+  text-align: justify;
+}
+
+footer {
+  margin: 7px;
+  border: 1px solid #423F36;
+  background-color: #DAB384;
+}
+footer p {
+  color: #423F36;
+  padding-left: 20px;
+}/*# sourceMappingURL=style.css.map */

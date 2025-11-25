@@ -1,0 +1,248 @@
+.izobr1{
+    display: inline-block;
+    transition: transform 0.2s;
+width: 150px;
+height: 150px;
+}
+.izobr1:hover{
+    transform: scale(2);
+}
+
+
+.izobr2{
+display: inline-block;
+transition: transform 0.2s;
+width: 150px;
+height: 150px;
+}
+.izobr2:hover{
+    transform: rotate(45deg);
+}
+
+
+.izobr3{
+    display: inline-block;
+transition: transform 0.2s;
+width: 150px;
+height: 150px;
+}
+.izobr3:hover{
+   transform: translate(50px,0px);
+}
+
+
+.izobr4{
+    display: inline-block;
+transition: transform 0.2s;
+width: 150px;
+height: 150px;
+}
+.izobr4:hover{
+    transform: skew(-20deg);
+}
+
+
+.knop1{
+    height: 50px;
+    width: 100px;
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.knop1:hover{
+    background-color: black;
+    color: white;
+}
+
+.knop2{
+    height: 50px;
+    width: 100px;
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.knop2:hover{
+   border: 7px red solid;
+   outline: auto yellow;
+}
+
+.knop3{
+    height: 50px;
+    width: 100px;
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.knop3:hover{
+    border-top:3px solid green;
+    border-bottom:3px solid green;
+    border-right-style:hidden;
+    border-left-style: hidden;
+}
+
+
+.knop4{
+    height: 50px;
+    width: 100px;
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.knop4:hover{
+    border-right: 3px solid blue;
+    border-left: 3px solid blue;
+    border-top-style: hidden;
+    border-bottom-style: hidden;
+
+}
+
+
+.knop5{
+    height: 50px;
+    width: 100px;
+    transition: transform 0.2s;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.knop5:hover{
+    background-image: radial-gradient(yellow,yellow 10%,purple 40%, blue 60%,rgb(82, 188, 223) 90%);
+}
+
+.pimg1{
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateX(30deg);
+    margin: 0 30px 0 20px;
+}
+
+.pimg2{
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    transform: perspective(250px) rotateY(20deg);
+    margin: 0 30px 0 20px;
+}
+
+.pimg3{
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    transform: perspective(300px) rotateX(30deg);
+    margin: 0 30px 0 20px;
+}
+
+.pimg4{
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    transform: perspective(250px) rotateY(-20deg);
+    margin: 0 30px 0 20px;
+}
+
+@keyframes cadr1{
+    from{}
+    50%{
+        transform: rotateY(0);
+    }
+    to{
+        transform: rotateY(0);
+    }
+}
+
+@keyframes cadr2{
+    from{}
+    50%{
+        transform: rotateY(0);
+        filter: blur(0);
+    }
+    to{
+        transform: translate(230px) rotateY(0);
+        filter: blur(10px);
+    }
+}
+
+@keyframes cadr3{
+    from{}
+    50%{
+        transform: rotateY(0);
+        filter: grayscale(0);
+    }
+    to{
+        transform: translate(350px) rotateY(0);
+        filter: grayscale(1);
+    }
+}
+
+@keyframes cadr4{
+    from{}
+    50%{
+        transform: rotateY(0);
+        filter: invert(0);
+    }
+    to{
+        transform: translate(700px) rotateY(0);
+        filter: invert(1);
+    }
+}
+
+.cadr{
+    position: absolute;
+    transform:perspective(450px) rotateY(45deg);
+}
+
+#izabre1{
+    animation-name: cadr1;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+#izabre2{
+    animation-name: cadr2;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    left: 40px;
+}
+
+#izabre3{
+    animation-name: cadr3;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    left: 80px;
+}
+
+#izabre4{
+    animation-name: cadr4;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    left: 120px;
+}
+
+
+#kok{
+    margin-top: 370px;
+}
+
+#jop{
+    position: absolute;
+    border: 5px solid black;
+    width: 300px;
+    height: 300px;
+    animation: zad5 5s linear infinite;
+    background-size: 100%;
+}
+
+@keyframes zad5{
+ 0%{background-image: url("img/tea1.jpg");}
+
+ 20%{background-image: url("img/tea2.jpg");}
+
+ 40%{background-image: url("img/tea3.jpg");}
+
+ 60%{background-image: url("img/tea4.jpg");}
+
+ 80%{background-image: url("img/tea5.webp");}
+
+ 100%{background-image: url("img/tea1.jpg");
+}
+}

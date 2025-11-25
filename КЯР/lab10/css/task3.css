@@ -1,0 +1,15 @@
+@import url(task3_1.css)(max-width: 768px);
+#third { 
+    width: 100%;
+}
+
+.imgs {
+    width: 100px;
+}
+
+@media (max-width:1280px) {
+    .imgs{
+        display: block;
+        width: 100%;
+    }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="shop.xsl"?>
+<books>
+    <product>
+        <name>День триффидов</name>
+        <author>Джон Уиндем</author>
+        <price>12 BYN</price>
+        <book>Роман</book>
+    </product>
+    <product>
+        <name>Язык телодвижений</name>
+        <author>Аллана Пиза</author>
+        <price>25 BYN</price>
+        <book>Психология</book>
+    </product>
+    <product>
+        <name>Теория всего</name>
+        <author>Стивин Хокинг</author>
+        <price>15 BYN</price>
+        <book>Научно-популярная литература</book>
+    </product>
+    <product>
+        <name>Семь навыков высокоэффективных людей</name>
+        <author>Стивен Кови</author>
+        <price>35 BYN</price>
+        <book>Психология</book>
+    </product>
+    <product>
+        <name>есторан «У конца Вселенной»</name>
+        <author>Дуглас Адамс</author>
+        <price>15 BYN</price>
+        <book>Научная фантастика</book>
+    </product>
+</books>

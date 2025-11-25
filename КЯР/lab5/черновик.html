@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 4</title>
+    <link href="style4.css" rel="stylesheet">
+</head>
+<style>
+*
+{
+    margin: 10px;
+}
+table
+{
+    border-spacing: 0px;
+    width: 500px;
+    height: 500px;
+}
+
+td
+{
+    width: 50px;
+    height: 50px;
+    border: 1px black solid;
+}
+
+tr
+{
+    text-align: center;
+}
+
+tr:nth-child(even) td:nth-child(odd),/*черные поля доски*/
+tr:nth-child(odd) td:nth-child(even)
+{
+    background-color: black;
+}
+
+tr:first-child td /*черные поля доски*/
+{
+    background-color: rgba(174, 224, 200, 0.835) ;
+    empty-cells: hide ;
+    height: 25px ;
+}
+
+tr:last-child td:nth-child(even),
+tr:last-child td:nth-child(odd) /*нижняя часть доски*/
+{
+    background-color: rgb(43, 13, 142) ;
+    empty-cells: hide;
+    height: 25px;
+}
+tr:nth-child(odd) td:nth-child(even),
+tr:nt{
+
+}
+
+tr:last-child td:nth-child(odd)
+{                                     
+    background-color: rgb(119, 22, 22) ;
+    empty-cells: hide;
+    height: 25px;
+} 
+
+tr:first-child td:nth-child(even) {
+    background-color: rgb(71, 157, 98) ;
+    width: 25px;
+}
+
+td:last-child 
+{
+    background-color: rgb(183, 10, 10) ;
+    width: 25px;
+}
+
+
+
+</style>
+<body>
+    <table>
+        <tr>
+            <td></td>
+            <td>a</td>
+            <td>b</td>
+            <td>c</td>
+            <td>d</td>
+            <td>e</td>
+            <td>f</td>
+            <td>g</td>
+            <td>h</td>
+            <td></td>
+        </tr>	
+        <tr>
+            <td>8</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>8</td>
+        </tr>		
+        <tr>
+            <td>7</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>7</td>
+        </tr>	
+        <tr>
+            <td>6</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>6</td>
+        </tr>	
+        <tr>
+            <td>5</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>5</td>
+        </tr>	
+        <tr>
+            <td>4</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td >4</td>
+        </tr>	
+        <tr">
+            <td>3</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>3</td>
+        </tr>	
+        <tr>
+            <td>2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>2</td>
+        </tr>	
+        <tr>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>1</td>
+        </tr>	
+        <tr>
+            <td></td>
+            <td>a</td>
+            <td>b</td>
+            <td>c</td>
+            <td>d</td>
+            <td>e</td>
+            <td>f</td>
+            <td>g</td>
+            <td>h</td>
+            <td></td>
+        </tr>	
+    </table>				
+</body>
+</html>
